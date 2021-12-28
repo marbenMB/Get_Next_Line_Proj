@@ -9,7 +9,7 @@
 /*   Updated: 2021/12/26 00:40:20 by mbenbajj         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(char *s, char c)
 {

@@ -9,7 +9,7 @@
 /*   Updated: 2021/12/26 00:39:45 by mbenbajj         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_get_line(char *str)
 {
